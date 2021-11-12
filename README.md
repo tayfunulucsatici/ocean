@@ -17,6 +17,10 @@ sudo apt install default-jre
 ```
 
 ```sh
+sudo apt install default-jdk
+```
+
+```sh
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
 ```
 
