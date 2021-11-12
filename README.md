@@ -9,7 +9,7 @@ sudo apt upgrade
 ```
 
 ```sh
-sudo apt build-essential
+sudo apt install build-essential
 ```
 
 ```sh
